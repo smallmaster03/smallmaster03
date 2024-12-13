@@ -4,6 +4,7 @@ adcolony.com, 29b7f4a14dc689eb, RESELLER, 1ad675c9de6b5176
 adcolony.com, 5d8cbf6671c93a42, RESELLER, 1ad675c9de6b5176
 adcolony.com, 7d04a18a58085918, RESELLER, 1ad675c9de6b5176
 adcolony.com, 801e49d1be83b5f9, RESELLER, 1ad675c9de6b5176
+facebook.com, 402494555675672, DIRECT, c3e20eee3f780d68
 adcolony.com, c490f6e7399a25d6, RESELLER, 1ad675c9de6b5176
 addapptr.com, 28aa42f489885b7ce64a0abdcaeaf4ed, DIRECT, b3bb5a9415a362a1
 adelement.com, 101, RESELLER
